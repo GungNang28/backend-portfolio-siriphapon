@@ -1,0 +1,73 @@
+{
+  "personal": {
+    "name": "Siriphaporn Buanak",
+    "name_th": "ศิริภาพร บัวนาค",
+    "nickname": "กุ้งนาง",
+    "title": "Backend Developer",
+    "email": "siriphaporn.b@merudy.com"
+  },
+  "about": {
+    "short": "Backend Developer with 5 years of experience building, maintaining, and improving backend systems.",
+    "description": "Backend Developer with experience in developing and maintaining business applications, REST APIs, database systems, and system integrations. Experienced in working with existing systems, solving production issues, and improving backend functionality.",
+    "experience_years": 5
+  },
+  "skills": {
+    "backend": [
+      "PHP",
+      "Laravel",
+      "Zend",
+      "Node.js",
+      "NestJS"
+    ],
+    "database": [
+      "MySQL"
+    ],
+    "concepts": [
+      "REST API",
+      "Business Logic",
+      "System Integration",
+      "API Integration",
+      "Database Management"
+    ]
+  },
+  "experience": [
+    {
+      "position": "Backend Developer",
+      "company": "Rudy Technology",
+      "description": "Develop and maintain backend systems, APIs, database operations, and integrations with external services."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Asia Metal Backend",
+      "type": "Backend API",
+      "description": "Backend system for sales, quotation, sales order, stock, customer, delivery, and ERP integration.",
+      "role": "Backend Developer",
+      "technologies": [
+        "Laravel",
+        "PHP",
+        "MySQL"
+      ],
+      "integrations": [
+        "SAP ERP",
+        "LINE OA / LIFF",
+        "AWS S3"
+      ]
+    },
+    {
+      "name": "CPAC Backend",
+      "type": "Backend API",
+      "description": "Backend services and integrations supporting order, shipping, invoice, and LINE-based workflows.",
+      "role": "Backend Developer",
+      "technologies": [
+        "Node.js",
+        "NestJS",
+        "TypeScript",
+        "MySQL"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "siriphaporn.b@merudy.com"
+  }
+}
