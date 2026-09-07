@@ -10,7 +10,13 @@ export default defineNuxtConfig({
   css: [
     '~/assets/css/main.css'
   ],
+  nitro: {
+    prerender: {
+      routes: ['/']
+    }
+  },
   app: {
+    baseURL: process.env.NUXT_APP_BASE_URL || '/',
     head: {
       htmlAttrs: {
         lang: 'th',
